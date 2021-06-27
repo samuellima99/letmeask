@@ -59,7 +59,7 @@ Você pode acessar o layout do projeto através do link do figma abaixo:
 
 - [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate)
 
-Para acessar o fgima você precisa ter uma conta no [Figma](http://figma.com/).
+Para acessar o layout você precisa ter uma conta no [Figma](http://figma.com/).
 
 ---
 
