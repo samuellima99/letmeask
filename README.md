@@ -1,17 +1,9 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
-</p>
-
-<p align="center">
   <img src="./images/logo.svg" alt="NLW Together 06" />
   
   <img src="./images/letmeask.svg" alt="Stars">
 
 </p>
-
-<h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
-</h1>
 
 <br>
 
